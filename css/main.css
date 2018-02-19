@@ -1,0 +1,140 @@
+.content {
+  padding: 0;
+}
+.navigation {
+   background-color: #292B2C!important;
+ }
+ .navi {
+  padding: 0;
+}
+.menu {
+  color: #FFFFFF!important;
+}
+.link {
+  color: #8E9596!important;
+}
+.link-disabled {
+  color: #5F6061!important;
+}
+.search1 {
+  width: 225px!important;
+}
+.search2 {
+  width: 80px;
+  font-size: 17px;
+}
+.carouselle {
+  padding: 0;
+}
+.slides {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.slide1-headline {
+  text-align: left;
+  padding-bottom: 0;
+  font-size: 48px;
+}
+.slide1-paragraph {
+  text-align: left;
+  padding: 0;
+  font-size: 24px;
+}
+.signupbutton {
+  text-align: left;
+  padding-bottom: 50px;
+}
+.slide2-headline {
+  padding-bottom: 0;
+  font-size: 48px;
+}
+.slide2-paragraph {
+  padding: 0;
+  font-size: 24px!important;
+}
+.learnbutton {
+  padding-bottom: 50px;
+}
+.slide3-headline {
+  text-align: right;
+  padding-bottom: 0;
+  font-size: 48px;
+}
+.slide3-paragraph {
+  text-align: right;
+  padding: 0;
+  font-size: 24px;
+}
+.browsebutton {
+  text-align: right;
+  padding-bottom: 50px;
+}
+.section1 {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.card1 {
+    border: 0;
+}
+.sectionimage {
+  text-align: center;
+}
+.cardimg {
+  height: 160px;
+  width: 160px;
+}
+.cardbody {
+  padding: 5px;
+}
+.cardtext, .cardheading {
+  text-align: center;
+  color: #5A5A5A;
+}
+.cardheading {
+  font-size: 30px;
+}
+.cardbtn {
+  text-align: center;
+}
+.cardtext {
+  font-size: 15px;
+}
+.cardbutton {
+   color: #292B2C;
+   border: 0.8px solid grey;
+   margin: 4px;
+ }
+.section2 {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.featurette-heading {
+  color: #5A5A5A;
+  font-weight: 400;
+  font-size: 51px;
+  padding-top: 15%;
+}
+.mindblower {
+  color: #636C72;
+}
+.featurette-paragraph {
+  color: #5A5A5A;
+}
+.featurette-img {
+  height: 500px;
+  width: 450px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  font-size: 17px;
+  color: #5A5A5A;
+}
+.footer-list {
+  display: flex;
+}
+.footer-list p {
+  padding-right: 5px;
+}
